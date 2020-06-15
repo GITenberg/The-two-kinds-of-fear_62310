@@ -1,0 +1,30 @@
+_repo: The-two-kinds-of-fear_62310
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Dean's illustrated farthing books
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Honesty -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sin -- Juvenile fiction'
+- GITenberg
+title: The two kinds of fear
+url: http://www.gutenberg.org/ebooks/62310
